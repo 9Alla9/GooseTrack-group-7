@@ -265,6 +265,11 @@ Error generating stack: `+o.message+`
     0 0 40px #00baff,
     0 0 80px #00baff;
 `;const FE=rt.div`
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  
   width: 100%;
   height: 100vh;
   /* background-image: url(${zE}); */
